@@ -1,9 +1,9 @@
 {
-	"name": "git-commit-lint-vscode",
-	"displayName": "git-commit-lint-vscode",
-	"description": "git提交规范",
-	"version": "1.3.0",
-	"publisher": "UvDream",
+	"name": "git-commit-lint-vsc",
+	"displayName": "git-commit-lint-vsc",
+	"description": "git提交规范 vscode插件",
+	"version": "1.3.1",
+	"publisher": "Gentlythink",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
@@ -11,17 +11,17 @@
 		"Other"
 	],
 	"license": "MIT",
-	"homepage": "https://github.com/UvDream/git-commit-lint-vscode/blob/master/README.md",
+	"homepage": "https://github.com/gentlythink/git-commit-lint-vsc/blob/master/README.md",
 	"bugs": {
-		"url": "https://github.com/UvDream/git-commit-lint-vscode/issues"
+		"url": "https://github.com/gentlythink/git-commit-lint-vsc/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/UvDream/git-commit-lint-vscode"
+		"url": "https://github.com/gentlythink/git-commit-lint-vsc"
 	},
 	"keywords": [
 		"git",
-		"emoji",
+		"commit",
 		"lint"
 	],
 	"icon": "static/logo.png",
