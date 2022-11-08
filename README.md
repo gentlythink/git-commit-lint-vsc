@@ -36,3 +36,7 @@
 ## 下载
 
 在 vscode 扩展中搜索 `git-commit-lint-vsc` 即可找到该插件。
+
+## 发布教程
+
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension#publishing-extensions
