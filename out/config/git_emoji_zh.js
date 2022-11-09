@@ -2,22 +2,52 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 let emojis = [
     {
-        emoji: "feat: ",
-        code: "feat: ",
-        description: "引入新功能",
-        name: "新功能"
-    },
-    {
         emoji: "fix: ",
         code: "fix: ",
         description: "修复bug",
         name: "bug"
     },
     {
+        emoji: "feat: ",
+        code: "feat: ",
+        description: "引入新功能",
+        name: "新功能"
+    },
+    {
+        emoji: "wip: ",
+        code: "wip: ",
+        description: "开发中",
+        name: "开发"
+    },
+    {
         emoji: "style: ",
         code: "style: ",
         description: "更新UI样式文件",
         name: "样式"
+    },
+    {
+        emoji: "perf: ",
+        code: "perf: ",
+        description: "提高性能/优化",
+        name: "优化"
+    },
+    {
+        emoji: "refactor: ",
+        code: "refactor: ",
+        description: "改进代码结构/代码格式",
+        name: "重构"
+    },
+    {
+        emoji: "revert: ",
+        code: "revert: ",
+        description: "撤销修改",
+        name: "撤销"
+    },
+    {
+        emoji: "test: ",
+        code: "test: ",
+        description: "增加测试代码",
+        name: "测试"
     },
     {
         emoji: "format: ",
@@ -32,28 +62,34 @@ let emojis = [
         name: "文档"
     },
     {
-        emoji: "perf: ",
-        code: "perf: ",
-        description: "提高性能/优化",
-        name: "优化"
+        emoji: "chore: ",
+        code: "chore: ",
+        description: "依赖更新/脚手架配置修改等",
+        name: "依赖"
+    },
+    {
+        emoji: "workflow: ",
+        code: "workflow: ",
+        description: "工作流改进",
+        name: "工作流"
+    },
+    {
+        emoji: "types: ",
+        code: "types: ",
+        description: "类型定义文件更改",
+        name: "类型定义"
+    },
+    {
+        emoji: "ci: ",
+        code: "ci: ",
+        description: "持续集成",
+        name: "持续集成"
     },
     {
         emoji: "init: ",
         code: "init: ",
         description: "初次提交/初始化项目",
         name: "初始化"
-    },
-    {
-        emoji: "test: ",
-        code: "test: ",
-        description: "增加测试代码",
-        name: "测试"
-    },
-    {
-        emoji: "refactor: ",
-        code: "refactor: ",
-        description: "改进代码结构/代码格式",
-        name: "优化"
     },
     {
         emoji: "patch: ",
